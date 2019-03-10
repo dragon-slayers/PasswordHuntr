@@ -1,0 +1,10 @@
+.button{
+    text-align: center;
+    color: white;
+    width: 209px;
+    padding: 5px 5px;
+    border: solid white 2px;
+    text-decoration: none;
+    backface-visibility: inherit;
+    background-color: radial-gradient(ellipse at center, rgba(91,32,219,1) 0%,rgba(14,14,14,1) 91%,rgba(14,14,14,1) 100%);
+}
